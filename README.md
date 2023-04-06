@@ -5,3 +5,6 @@ Electronic health records (EHRs) store an extensive array of patient information
 
 # About this tool
 We here provide a comprehansive usage to mitigate the performance variance brought by auto-generated prompts from LLMs.
+
+# Code Base Upate
+We will soon update the package on this repository. Stay tune!
